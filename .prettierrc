@@ -1,0 +1,6 @@
+{
+    "proseWrap": "preserve",
+    "printWidth": 90,
+    "semi": true,
+    "bracketSameLine": false
+}
